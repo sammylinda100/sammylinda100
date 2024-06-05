@@ -1,4 +1,4 @@
-## boas vindas ao meu perfil 👋
+## boas vindas ao meu perfil 💛
 
 Meu nome é samantha
 
@@ -6,7 +6,7 @@ Meu nome é samantha
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
--Para entrar em contato comigo:📫
+## para entrar emcontato comigo 📭
  
   samanthacristina17092007@gmail.com
 
